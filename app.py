@@ -28,7 +28,7 @@ def callback():
     sendText(user,'เหงามากหาคนดูแล')
     if(userText=='ดูแลตัวเองไปก่อนนะ') :
     sendText(user,'ถถถ.แม่คู้นนนน')
-    if(userText='สวัสดี') :
+    if(userText=='สวัสดี') :
     sendText(user,'เออดีด้วย')
   elif(userText== 'ไอ้บ้า') :
     sendText(user,'เอ็งซิบ้า')
